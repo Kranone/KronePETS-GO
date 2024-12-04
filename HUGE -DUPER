@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kranone/KronePETS-GO/refs/heads/main/Huge-Hunter-Script"))()
